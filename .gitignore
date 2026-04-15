@@ -22,3 +22,6 @@ models_*/
 *.err
 *.tmp
 *.cache
+
+__pycache__/
+*.pyc
