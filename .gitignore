@@ -11,8 +11,8 @@ tmp/
 .hf_git_push/
 .hf_git_push.ps1
 
-models/
-models_*/
+/models/
+/models_*/
 
 *.gguf
 *.safetensors
