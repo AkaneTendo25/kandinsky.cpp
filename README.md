@@ -1,6 +1,6 @@
 # kandinsky.cpp
 
-Native C/C++ inference runtime for Kandinsky 5 Pro text-to-video using `ggml` / `ggml-cuda` and GGUF weights.
+Native C/C++ inference runtime for [Kandinsky 5.0 Video Pro](https://github.com/kandinskylab/kandinsky-5) using `ggml` / `ggml-cuda` and GGUF weights.
 
 This repository currently targets the official Kandinsky 5 Pro `5s` text-to-video checkpoint `kandinsky5pro_t2v_sft_5s.safetensors`.
 
